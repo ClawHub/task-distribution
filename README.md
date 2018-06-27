@@ -1,0 +1,2 @@
+# task-distribution
+简单的任务分发系统，应用了zk的选主与队列，调度器使用spring的ThreadPoolTaskScheduler，任务支持cron表达式。
